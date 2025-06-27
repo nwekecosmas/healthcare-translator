@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Healthcare Translator
 
 A real-time, multilingual translation web application designed specifically for healthcare communication between patients and providers. Built with React, Vite, and modern AI translation services.
