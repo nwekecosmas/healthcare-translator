@@ -11,7 +11,7 @@
 ## 🎯 Core Features
 
 ### 1. Voice Translation
-- **Type directly** any letter in the text area & Click the microphone button** 🎤 to start recording
+- **Type directly any letter in the text area & Click the microphone button** 🎤 to start recording
 - **Speak clearly** in your source language
 - **See real-time transcription** as you speak
 - **Get instant translation** in your target language
