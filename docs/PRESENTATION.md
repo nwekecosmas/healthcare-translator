@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Presentation: AI-Powered Healthcare Translator
 
 ## 🎯 Project Overview
